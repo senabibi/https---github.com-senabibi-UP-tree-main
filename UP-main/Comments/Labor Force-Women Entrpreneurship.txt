@@ -1,0 +1,18 @@
+Bu veri seti, farklı ülkelerin kadın girişimcilik endeksi, girişimcilik endeksi, enflasyon oranı ve kadın işgücüne katılım oranı gibi çeşitli ekonomik göstergelerini içermektedir. Her bir satır, bir ülkeyi temsil eder ve o ülkenin belirli bir dönemdeki ekonomik durumunu gösteren verilere sahiptir.
+
+Örneğin, ilk satırda:
+
+Ülke: Avusturya
+Kalkınma Düzeyi: Gelişmiş
+Avrupa Birliği Üyeliği: Üye
+Para Birimi: Euro
+Kadın Girişimcilik Endeksi: 54.9
+Girişimcilik Endeksi: 64.9
+Enflasyon Oranı: %0.9
+Kadın İşgücüne Katılım Oranı: %67.1
+Bu veri seti, farklı ülkelerin ekonomik performanslarını karşılaştırmak ve analiz etmek için kullanılabilir. Özellikle kadın girişimcilik endeksi ve kadın işgücüne katılım oranı gibi göstergeler, kadınların ekonomik katılımı ve cinsiyet eşitliği açısından önemlidir. Bu veri seti, politika yapıcılar ve araştırmacılar için farklı ülkelerdeki cinsiyet eşitliği politikalarının etkisini değerlendirmek için faydalı bir araç olabilir.
+
+
+
+
+

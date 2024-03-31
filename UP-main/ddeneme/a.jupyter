@@ -1,0 +1,14 @@
+import pandas as pd
+
+# Veri setini yükle
+df = pd.read_csv("female-to-male-ratio-of-time-devoted-to-unpaid-care-work.csv")
+
+# Boş değerleri kontrol et
+print(df.isnull().sum())
+
+# Boş değerlere sahip satırları sil
+df.dropna(inplace=True)
+
+# Bağımsız değişken: Ülkeler (Entity, Code)
+# Bağımlı değişken: Kadın-erkek oranıyla ilgili zaman harcaması (Female to male ratio of time devoted to unpaid care work)
+# Sabit: Yıl (Year) (Tüm veri setinde 2014 olduğu için modelde kullanışsız olabilir)

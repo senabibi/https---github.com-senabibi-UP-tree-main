@@ -1,0 +1,19 @@
+Bu veri seti, Avustralya ve Kanada gibi belirli ülkelerde, farklı yıllarda üst gelir dilimlerindeki kadınların oranlarını göstermektedir. Her bir satır, belirli bir ülkeyi, yılı ve belirli bir yüzdelik dilimi (örneğin, en zengin %0.1, %0.25, %0.5, %1, %5 ve %10) temsil eder. Bu yüzdelik dilimler, ülkenin toplam gelirinin belirli bir yüzdesini temsil eder.
+
+Örneğin, ilk satır:
+
+Ülke: Avustralya
+Kod: AUS
+Yıl: 2000
+En zengin %1'in üzerindeki kadınların payı: Bilgi mevcut değil (boş)
+En zengin %0.1'in üzerindeki kadınların payı: 14.2%
+En zengin %0.25'in üzerindeki kadınların payı: Bilgi mevcut değil (boş)
+En zengin %0.5'in üzerindeki kadınların payı: Bilgi mevcut değil (boş)
+En zengin %10'un üzerindeki kadınların payı: 18.3%
+En zengin %5'in üzerindeki kadınların payı: 24.9%
+En zengin %1'in üzerindeki kadınların payı: 21.1%
+Bu veri seti, ülkelerin gelir dağılımındaki cinsiyet eşitsizliğini ölçmek için kullanılabilir. Özellikle, belirli bir ülkedeki zenginlikteki kadınların oranının zaman içinde nasıl değiştiğini analiz etmek için kullanılabilir.
+Daha yüksek oranlar, üst gelir dilimlerinde daha fazla kadın temsil edildiğini, 
+daha düşük oranlar ise cinsiyet eşitsizliğinin daha belirgin olduğunu gösterebilir. 
+Bu veri, cinsiyet eşitsizliği üzerine politikalar geliştirmek isteyen araştırmacılar
+ve politika yapıcılar için önemli bir kaynak olabilir.

@@ -1,0 +1,11 @@
+Bu veri seti, farklı ülkelerdeki kadınların erkeklere kıyasla ücretsiz bakım işlerine harcadıkları zamanın cinsiyet oranlarını içeriyor.
+Her bir satır bir ülkeyi temsil ediyor ve sırasıyla ülkenin adı, kodu, yılı ve kadınların erkeklere kıyasla ücretsiz bakım işlerine 
+harcadıkları zamanın oranı bulunuyor.
+
+Örneğin, ilk satırda:
+
+Ülke: Albania (Arnavutluk)
+Kod: ALB
+Yıl: 2014
+Kadınların erkeklere kıyasla ücretsiz bakım işlerine harcadıkları zamanın oranı: 7.21
+Bu veri seti, farklı ülkeler arasında kadınların ev işleri ve bakım gibi geleneksel olarak "ünvansız" olarak kabul edilen işlere ne kadar zaman harcadığını göstermektedir. Daha yüksek bir oran, kadınların bu tür işlere daha fazla zaman ayırdığını gösterirken, daha düşük bir oran daha eşitlikçi bir durumu işaret eder. Bu veri, cinsiyet eşitsizliği üzerine çalışan araştırmacılar veya politika yapıcıları için önemli olabilir.

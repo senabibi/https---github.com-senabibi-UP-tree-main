@@ -1,0 +1,12 @@
+
+Bu veri seti, farklı Avrupa ülkelerinin kalkınma seviyeleri, Avrupa Birliği üyelik durumları, para birimleri ve bazı ekonomik göstergelerini içermektedir. İşte veri setinde bulunan önemli sütunlar:
+
+Country: Ülkenin adı.
+Level of development: Gelişmişlik seviyesi (Developed: Gelişmiş).
+European Union Membership: Avrupa Birliği üyelik durumu (Member: Üye).
+Currency: Para birimi.
+Women Entrepreneurship Index: Kadın Girişimcilik Endeksi.
+Entrepreneurship Index: Girişimcilik Endeksi.
+Inflation rate: Enflasyon oranı.
+Female Labor Force Participation Rate: Kadın işgücüne katılım oranı.
+Bu veri seti, Avrupa ülkelerinin ekonomik durumlarını karşılaştırmak ve analiz etmek için kullanılabilir. Örneğin, gelişmişlik seviyesi ile kadın girişimcilik endeksi arasındaki ilişkiyi inceleyebilirsiniz. Ayrıca, Avrupa Birliği üyeliğinin ekonomik göstergeler üzerindeki etkisini değerlendirebilir veya farklı para birimlerine sahip ülkelerin enflasyon oranlarını karşılaştırabilirsiniz.

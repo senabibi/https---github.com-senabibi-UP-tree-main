@@ -1,0 +1,11 @@
+Bu veri seti, farklı ülkelerdeki anne ölüm oranlarını (maternal mortality ratio) içermektedir. Anne ölüm oranı, her 100,000 canlı doğumda bir kadının hamilelik ve doğum süreci sırasında ölme olasılığını ölçer. Veriler, farklı yıllarda farklı ülkelerde kaydedilmiş anne ölüm oranlarını temsil eder.
+
+Örneğin, ilk satırda:
+
+Ülke: Afghanistan
+Kod: AFG
+Yıl: 2000
+Anne ölüm oranı: 1450
+Bu veri seti, anne sağlığı ve gebelik bakımı gibi önemli sağlık göstergelerini izlemek ve değerlendirmek için kullanılabilir. Yüksek anne ölüm oranları, bir ülkedeki sağlık hizmetlerinin yetersizliğini veya kadınların sağlık hizmetlerine erişimindeki engelleri gösterebilir. Düşük anne ölüm oranları ise genellikle daha iyi sağlık hizmetleri, gebelik bakımı ve kadın haklarına erişimle ilişkilendirilir.
+
+Bu veri seti, sağlık politikalarını ve sağlık hizmetlerinin erişilebilirliğini geliştirmeye yönelik çabaları yönlendirmek için önemli bir araç olabilir. Ayrıca, cinsiyet eşitliği ve kadın sağlığı üzerine araştırmalar yapmak isteyen akademisyenler ve politika yapıcılar için de değerli bir kaynak olabilir.

@@ -1,0 +1,9 @@
+Bu veri seti, çeşitli ülkelerin 1990'dan 2021'e kadar olan dönemdeki erkek işgücüne katılım oranlarını içermektedir. Her bir satırda bir ülke için bir dizi yıl boyunca erkeklerin işgücüne katılım oranı bulunmaktadır. Aşağıda verilerin bazı yönleri açıklanmıştır:
+
+ISO3: Ülkenin ISO 3 karakter kodu.
+Country: Ülkenin adı.
+Continent: Ülkenin kıtası.
+Hemisphere: Ülkenin bulunduğu yarıküre.
+HDI Rank (2021): İnsani Gelişme Endeksi'ne göre sıralama.
+Labour force participation rate, male (% ages 15 and older) (1990-2021): Belirli bir yılda 15 yaş ve üstü erkek nüfusunun işgücüne katılma oranı, yıllara göre sıralanmıştır.
+Bu veri seti, belirli bir ülkenin erkekler arasındaki işgücüne katılım eğilimini analiz etmek için kullanılabilir. Ayrıca, farklı ülkelerin ekonomik gelişim seviyeleri ve bölgesel özelliklerle ilişkilendirilerek karşılaştırmalı analizler yapılabilir.

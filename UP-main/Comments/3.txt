@@ -1,0 +1,15 @@
+Bu veri seti, Afganistan'da kadınların erkeklere kıyasla işgücüne katılım oranlarının (işgücüne katılım oranı) yıllara göre oranlarını içermektedir.
+İlgili sütunlarda Afganistan'ın kodu (AFG), yılı ve kadınların erkeklere kıyasla işgücüne katılım oranının bir oranı bulunmaktadır.
+
+Örneğin, ilk satırda:
+
+Ülke: Afganistan
+Kod: AFG
+Yıl: 1990
+Kadınların erkeklere kıyasla işgücüne katılım oranı: %19.60
+Bu veri seti, Afganistan'daki kadınların işgücüne katılımını izlemek ve analiz etmek için kullanılabilir.
+Kadınların işgücüne katılımı genellikle ekonomik kalkınma, kadın hakları ve toplumsal cinsiyet eşitliği açısından önemli bir göstergedir.
+Yıllara göre bu oranların nasıl değiştiğini gözlemlemek, Afganistan'daki kadınların işgücüne katılımındaki trendleri anlamak için önemli olabilir.
+Örneğin, artan bir oran, kadınların işgücüne katılımında artan bir eğilimi gösterebilirken, 
+azalan bir oran ters bir trendi işaret edebilir. Bu veri, kadın hakları savunucuları, politika yapıcılar
+ve araştırmacılar için Afganistan'daki kadınların toplumdaki rollerini anlamak ve güçlendirmek için değerli bir kaynak olabilir.

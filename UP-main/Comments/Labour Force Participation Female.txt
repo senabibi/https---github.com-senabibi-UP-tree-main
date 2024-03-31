@@ -1,0 +1,9 @@
+Bu veri seti, çeşitli ülkelerin 1990'dan 2021'e kadar olan dönemdeki kadın işgücüne katılım oranlarını içermektedir. Her bir satırda bir ülke için bir dizi yıl boyunca kadınların işgücüne katılım oranı bulunmaktadır. Aşağıda verilerin bazı yönleri açıklanmıştır:
+
+ISO3: Ülkenin ISO 3 karakter kodu.
+Country: Ülkenin adı.
+Continent: Ülkenin kıtası.
+Hemisphere: Ülkenin bulunduğu yarıküre.
+HDI Rank (2021): İnsani Gelişme Endeksi'ne göre sıralama.
+Labour force participation rate, female (% ages 15 and older) (1990-2021): Belirli bir yılda 15 yaş ve üstü kadın nüfusunun işgücüne katılma oranı, yıllara göre sıralanmıştır.
+Bu veri seti, belirli bir ülkenin kadınlar arasındaki işgücüne katılım eğilimini analiz etmek için kullanılabilir. Kadınların işgücüne katılım oranları genellikle ekonomik kalkınma, toplumsal cinsiyet eşitliği ve işgücü piyasası politikalarının etkilerini değerlendirmek için önemli bir göstergedir. Ayrıca, farklı ülkeler arasında karşılaştırmalı analizler yapmak için de kullanılabilir.

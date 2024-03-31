@@ -1,0 +1,11 @@
+Bu veri seti, farklı ülkelerdeki cinsiyetler arası ücret farkını (gender wage gap) yıllara göre oranlarını içermektedir. Gender wage gap, genellikle kadınların erkeklere kıyasla aynı iş için aldıkları ücretin yüzdesi olarak ifade edilir. Pozitif bir oran, kadınların erkeklere kıyasla daha az kazandığını gösterirken, negatif bir oran kadınların erkeklere kıyasla daha fazla kazandığını gösterir.
+
+Örneğin, ilk satırda:
+
+Ülke: Argentina
+Kod: ARG
+Yıl: 1986
+Cinsiyetler arası ücret farkı: %15.79
+Bu veri seti, cinsiyet eşitsizliği üzerine çalışan araştırmacılar ve politika yapıcılar için önemli bir kaynak olabilir. Cinsiyetler arası ücret farkı, kadınların ekonomik katılımını ve cinsiyet eşitliğini etkileyen bir faktördür. Düşük bir cinsiyetler arası ücret farkı, daha eşitlikçi bir iş gücüne işaret ederken, yüksek bir cinsiyetler arası ücret farkı cinsiyet eşitsizliğinin varlığını gösterir.
+
+Özellikle, belirli ülkelerdeki cinsiyetler arası ücret farkının zaman içinde nasıl değiştiğini ve farklı ülkeler arasındaki farklılıkları gözlemlemek, cinsiyet eşitliği politikalarının etkisini değerlendirmek için önemlidir. Bu veri seti, cinsiyet eşitliği üzerine araştırmalar yapanlar ve politika yapıcılar tarafından kullanılabilir.

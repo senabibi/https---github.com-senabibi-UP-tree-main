@@ -1,0 +1,17 @@
+
+Bu veri seti, öğrencilerin akademik başarıları, eğitim geçmişleri ve istihdam durumları gibi çeşitli özelliklerini içermektedir. İşte veri setinde bulunan bazı önemli sütunlar:
+
+gender: Öğrencinin cinsiyeti (M: Erkek, F: Kadın).
+ssc_percentage: Ortaokul mezuniyet not ortalaması.
+ssc_board: Ortaokulun bağlı olduğu kurum.
+hsc_percentage: Lise mezuniyet not ortalaması.
+hsc_board: Lisenin bağlı olduğu kurum.
+hsc_subject: Lise mezuniyet alanı.
+degree_percentage: Lisans derecesi not ortalaması.
+undergrad_degree: Lisans alanı.
+work_experience: İş deneyimi (Yes: Evet, No: Hayır).
+emp_test_percentage: İşe alım testinde başarı yüzdesi.
+specialisation: Yüksek lisans özel alanı.
+mba_percent: Yüksek lisans not ortalaması.
+status: Öğrencinin işe yerleştirilme durumu (Placed: Yerleştirildi, Not Placed: Yerleştirilmedi).
+Bu veri seti, öğrencilerin akademik başarılarını ve işe yerleştirilme durumlarını analiz etmek için kullanılabilir. Örneğin, öğrencilerin cinsiyetlerine, eğitim geçmişlerine ve yüksek lisans özel alanlarına göre işe yerleştirilme başarısı arasındaki ilişkiyi inceleyebilirsiniz. Ayrıca, öğrencilerin iş deneyimi ve işe alım testi başarı yüzdesi gibi faktörlerin işe yerleştirilme üzerindeki etkisini de değerlendirebilirsiniz.
